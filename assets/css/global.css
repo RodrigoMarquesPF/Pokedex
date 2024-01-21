@@ -14,7 +14,7 @@ body {
   background-color: #fff;
 }
 
-@media screen and (max-widht: 992px) {
+@media screen and (max-widht: 995px) {
   .content {
     max-width: 992px;
     height: auto;
